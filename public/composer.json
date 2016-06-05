@@ -1,0 +1,10 @@
+{
+	"autoload": {
+		"psr-0": {
+		"plava": "lib/"
+		}
+	},
+	"require": {
+		"illuminate/database": "^5.2"
+	}
+}

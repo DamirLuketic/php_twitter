@@ -1,0 +1,34 @@
+.login {
+border-radius: 25px;
+box-shadow: 10px 10px 5px #888888;
+}
+
+.button {
+		font-size: 1rem;
+		background: #3E8CCB;
+		padding: 0.65rem 0.3rem 0.65em 0.3rem;
+		margin: 0 0.3rem 0.2rem 1.0rem;
+	 }
+	 
+.button.tiny {
+		font-size: 0.8rem;
+		background: #3E8CCB;
+		padding: 0.65rem 0.3rem 0.65em 0.3rem;
+		margin: 0 0.3rem 0.2rem 1.0rem;
+ 	}
+	 	  
+button {
+
+  border-radius: 12px !important;
+
+  }
+
+  .button {
+
+  border-radius: 12px !important;
+ }
+ 
+ a.button{
+	width: 10rem;
+}
+
